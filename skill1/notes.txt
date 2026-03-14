@@ -1,0 +1,4 @@
+This is a sample notes file for Skill 1: Git Version Control.
+
+You can add updates to this file as part of the feature-update branch.
+You can also fix content here in the bug-fix branch.
