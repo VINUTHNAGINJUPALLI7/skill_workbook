@@ -1,0 +1,7 @@
+com\example\student\BackendApplication.class
+com\example\student\repository\StudentRepository.class
+com\example\student\controller\StudentController.class
+com\example\student\repository\InMemoryStudentRepository.class
+com\example\student\model\Student.class
+com\example\student\service\StudentService.class
+com\example\student\service\StudentServiceImpl.class
